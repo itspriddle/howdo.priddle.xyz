@@ -30,7 +30,7 @@ git checkout HEAD@{1}
 
 See `man git-reflog` for more info.
 
-### 2021-09-20 - Hello!
+### 2021-09-20 -- Hello!
 
 This is my scrappy little microsite for sharing dev and tech knowledge.
 
