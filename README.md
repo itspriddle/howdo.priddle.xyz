@@ -14,7 +14,7 @@ MySQL running slow and want to see which queries are running? If you can get a
 Need to kill one of those queries? Note its `Id` value, and run
 `KILL(803952)`.
 
-### 2021-09-21 -- Reverting a Git Pull
+### 2021-09-20 -- Reverting a Git Pull
 
 If you ran a `git pull` and need to revert, you can use `git reflog` to find
 the last revision you were on before you pulled:

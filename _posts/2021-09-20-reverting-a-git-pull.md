@@ -1,4 +1,4 @@
-### 2021-09-17 -- Reverting a Git Pull
+### 2021-09-20 -- Reverting a Git Pull
 
 If you ran a `git pull` and need to revert, you can use `git reflog` to find
 the last revision you were on before you pulled:
