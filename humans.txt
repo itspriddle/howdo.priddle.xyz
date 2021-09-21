@@ -1,0 +1,16 @@
+---
+---
+--------------------------------------------------------------------------------
+{{ site.title }}
+
+Hello human!
+
+Contact:  {{ site.author.email | replace_first: "@", " [at] " }}
+GitHub:   https://github.com/{{ site.author.github }}
+LinkedIn: https://linkedin.com/in/{{ site.author.linkedin }}
+Location: {{ site.author.location }}
+
+--------------------------------------------------------------------------------
+{{ site.url | replace_first: "https://" | upcase }}
+
+Last update: {{ site.time }}

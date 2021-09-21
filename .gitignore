@@ -1,0 +1,7 @@
+_site/*
+/bin/*
+.bundle
+.sass-cache
+.jekyll-metadata
+.envrc
+Gemfile.lock
